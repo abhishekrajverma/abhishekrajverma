@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/abhishek-raj9262/DSA-Sheet-Java-Code/tree/master/Prepinsta%20Placements/src">DSA-Sheet-Java-Code</a>
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Hyperledger and Kubernetes 
   
 
 - ❓ Ask me about anything related to the MERN stack and related technologies  
