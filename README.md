@@ -1,7 +1,5 @@
 # 💫 About Me :
 <div align="center">Hi 👋, I'm Abhishek Raj</div> <br>
-
-<!-- 🔭 I’m currently working on <br>🤝 I’m looking for help with<br> -->
 🌱 I’m currently learning TypeScript <br>💬 Ask me about anything related to the MERN stack and related technologies<br>⚡ Fun fact: I
 enjoy experimenting with cooking recipes and creating delicious dishes in my
 free time. I believe coding and cooking share a similar creative process!
