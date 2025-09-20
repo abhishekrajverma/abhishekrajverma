@@ -1,39 +1,63 @@
+# 👋 Hi, I'm Abhishek Raj
 
-
-
-
-
-
-
-
-
-
-# 💫 About Me :
-<div align="center">Hi 👋, I'm Abhishek Raj</div> <br>
-🌱 I’m currently learning TypeScript <br>💬 Ask me about anything related to the MERN stack and related technologies<br>⚡ Fun fact: I
-enjoy experimenting with cooking recipes and creating delicious dishes in my
-free time. I believe coding and cooking share a similar creative process!
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abhishekrajverma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrajverma&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrajverma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhishekrajverma&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Welcome to my GitHub!  
+I'm a passionate Software Engineer focused on building scalable backend systems, modern web applications, and cloud-native solutions.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abhishekrajverma&icon=3&color=4)](https://visitcount.itsvg.in)
+## 💼 Professional Summary
 
+- **Fully understand the JavaScript ecosystem:** Experienced in advanced concepts, modern frameworks, tooling, and best practices
+- **Backend Engineering:** Node.js, Express, MongoDB, PostgreSQL, RESTful APIs, ASP.NET Core Web API, Entity Framework
+- **Frontend Development:** React, TypeScript, Next.js, Shadcn UI, Chakra UI, Material UI, Tailwind CSS
+- **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, Azure, Nginx
+- **Other Technologies:** Redis, GraphQL, WebSockets, Swagger, xUnit, Jest, Supertest
+- **Professional:** REST API design, frontend-backend integration, authentication protocols (JWT, OAuth, IdentityServer), microservices, cloud deployments
 
+---
 
+## 🚀 Current Focus
+
+- Migrating business logic to **ASP.NET Core Web API**
+- Integrating **React + TypeScript** frontends with robust backend services
+- Exploring **microservices architecture**, cloud deployments, and advanced CI/CD
+- Building maintainable and scalable codebases with cutting-edge tech
+
+---
+
+## 🌟 Featured Projects
+
+- [Task Manager (INOX)](https://github.com/abhishekrajverma/Task-manger-inox)  
+  _Advanced productivity app with scalable backend_
+
+- [ERP System](https://github.com/abhishekrajverma/ERP-System)  
+  _Enterprise suite for efficient business operations_
+
+- [WorldfaCurdApp](https://github.com/abhishekrajverma/WorldfaCurdApp)  
+  _CRUD application with RESTful API design_
+
+- [dev-thoughts](https://github.com/abhishekrajverma/dev-thoughts)  
+  _Personal tech blog powered by serverless functions_
+
+- [backend-nodejs](https://github.com/abhishekrajverma/backend-nodejs)  
+  _Node.js backend blueprint for rapid development_
+
+---
+
+## 📈 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekrajverma&show_icons=true&theme=react&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekrajverma)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/abhishekrajv)
+[![Email](https://img.shields.io/badge/-Email-d14836?logo=gmail&logoColor=white)](mailto:abhishekrajverma24@gmail.com)
+
+---
+
+> “Professionalism is not just about the tools you use, but how you use them to create value.”
+
+Thanks for stopping by! Let’s connect and build something impactful together.
